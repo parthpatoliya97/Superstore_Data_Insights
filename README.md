@@ -1,1 +1,3 @@
 # Superstore_Data_Insights
+
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMDc5ZTJiMDYtMmQ1Zi00MDI5LThlNDQtN2NjOTc0NmZmZGRkIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
