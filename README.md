@@ -15,6 +15,8 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 - Average Order Value (AOV) stands at $521.41, with an average shipping time of 4 days.
 - Overall profit margin is 11.19%, while the average profit per order is $58.36, indicating a healthy balance between volume and profitability.
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 2. Category-wise Performance :-
 
 ##### Sales Contribution:
@@ -36,6 +38,8 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 #### Insight:
 - While Office Supplies leads in sales volume, Technology delivers the most profit. The Furniture category requires margin optimization or pricing adjustments due to its low profitability.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 3. Payment Mode Analysis :-
 
 - Sales Distribution: COD (42%), Online (35.38%), Cards (21.99%)
@@ -44,6 +48,8 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 
 #### Insight:
 - Cash-on-Delivery (COD) is the most profitable and widely used payment method, while online and card transactions have moderate contributions. Encouraging more online transactions could reduce COD handling costs.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 4. Customer Segment Insights :-
 
@@ -54,6 +60,8 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 #### Insight:
 - The Consumer segment remains the primary revenue and profit generator. Corporate clients also contribute steadily, while the Home Office segment can be targeted for growth through tailored offers or subscription-based models.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 5. Geographic Performance
 
 - Top Performing Cities: New York City and Los Angeles drive both high sales and high profit.
@@ -62,6 +70,8 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 
 #### Insight:
 - These states represent the core sales regions, offering potential for premium product marketing and regional expansion strategies.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 6. Sub-Category Highlights
 
@@ -92,10 +102,14 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 #### Insight:
 - High-value items like Phones and Copiers are both revenue and profit leaders. Focused marketing on these product lines can enhance profitability further.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 7. Shipping Mode Insights
 
 - Standard Class and Second Class are the most preferred and profitable shipping modes, offering an optimal balance between cost and delivery time.
 This indicates strong logistics management and customer satisfaction with standard delivery services.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 8. Seasonal and Time-Based Trends
 
