@@ -1,4 +1,4 @@
-# Superstore_Data_Insights
+# Superstore Sales Data Insights
 
 ![Sales View](https://github.com/parthpatoliya97/Superstore_Data_Insights/blob/main/Dashboard_Sales_View.png?raw=true)
 ![Profit View](https://github.com/parthpatoliya97/Superstore_Data_Insights/blob/main/Dashboard_Profit_View.png?raw=true)
