@@ -11,9 +11,9 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 
 ### 1. Overall Business Overview :-
 
-- Superstore has achieved a total sales of $1.57M, generating a profit of $175.26K from 22K units sold.
-- Average Order Value (AOV) stands at $521.41, with an average shipping time of 4 days.
-- Overall profit margin is 11.19%, while the average profit per order is $58.36, indicating a healthy balance between volume and profitability.
+- Superstore has achieved a total sales of **$1.57M**, generating a profit of **$175.26K** from **22K** units sold.
+- Average Order Value (AOV) stands at **$521.41**, with an average shipping time of **4** days.
+- Overall profit margin is **11.19%**, while the average profit per order is **$58.36**, indicating a healthy balance between volume and profitability.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -21,19 +21,19 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 
 ##### Sales Contribution:
 
-- Office Supplies: 41.11%
+- Office Supplies : **41.11%**
 
-- Technology: 30.05%
+- Technology : **30.05%**
 
-- Furniture: 28.84%
+- Furniture : **28.84%**
 
 #### Profit Contribution:
 
-- Technology: 51.61% (Highest Profit Driver)
+- Technology : **51.61%** (Highest Profit Driver)
 
-- Office Supplies: 42.64%
+- Office Supplies: **42.64%**
 
-- Furniture: 5.71% (Lowest Profit Margin)
+- Furniture: **5.71%** (Lowest Profit Margin)
 
 #### Insight:
 - While Office Supplies leads in sales volume, Technology delivers the most profit. The Furniture category requires margin optimization or pricing adjustments due to its low profitability.
@@ -42,9 +42,9 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 
 ### 3. Payment Mode Analysis :-
 
-- Sales Distribution: COD (42%), Online (35.38%), Cards (21.99%)
+- Sales Distribution: COD **(42%)**, Online **(35.38%)**, Cards **(21.99%)**
 
-- Profit Distribution: COD (46.84%), Online (30.84%), Cards (22.32%)
+- Profit Distribution: COD **(46.84%)**, Online **(30.84%)**, Cards **(22.32%)**
 
 #### Insight:
 - Cash-on-Delivery (COD) is the most profitable and widely used payment method, while online and card transactions have moderate contributions. Encouraging more online transactions could reduce COD handling costs.
@@ -53,9 +53,9 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 
 ### 4. Customer Segment Insights :-
 
-- Sales by Segment: Consumer (48.09%), Corporate (32.55%), Home Office (19.35%)
+- Sales by Segment: Consumer **(48.09%)**, Corporate **(32.55%)**, Home Office **(19.35%)**
 
-- Profit by Segment: Consumer (46.41%), Corporate (32.98%), Home Office (20.61%)
+- Profit by Segment: Consumer **(46.41%)**, Corporate **(32.98%)**, Home Office **(20.61%)**
 
 #### Insight:
 - The Consumer segment remains the primary revenue and profit generator. Corporate clients also contribute steadily, while the Home Office segment can be targeted for growth through tailored offers or subscription-based models.
@@ -64,9 +64,9 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 
 ### 5. Geographic Performance
 
-- Top Performing Cities: New York City and Los Angeles drive both high sales and high profit.
+- Top Performing Cities: **New York City** and **Los Angeles** drive both high sales and high profit.
 
-- Top Performing States: California, New York, and Texas lead in overall revenue contribution.
+- Top Performing States: **California**, **New York**, and **Texas** lead in overall revenue contribution.
 
 #### Insight:
 - These states represent the core sales regions, offering potential for premium product marketing and regional expansion strategies.
@@ -77,27 +77,27 @@ Live Dashboard Link :-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMD
 
 #### Top Sales Sub-Categories:
 
-- Phones ($0.20M)
+- Phones **($0.20M)**
 
-- Chairs ($0.18M)
+- Chairs **($0.18M)**
 
-- Binders ($0.17M)
+- Binders **($0.17M)**
 
-- Storage ($0.15M)
+- Storage **($0.15M)**
 
-- Accessories ($0.12M)
+- Accessories **($0.12M)**
 
 #### Top Profit Sub-Categories:
 
-- Copiers ($43K)
+- Copiers **($43K)**
 
-- Accessories ($25K)
+- Accessories **($25K)**
 
-- Phones ($22K)
+- Phones **($22K)**
 
-- Paper ($21K)
+- Paper **($21K)**
 
-- Binders ($18K)
+- Binders **($18K)**
 
 #### Insight:
 - High-value items like Phones and Copiers are both revenue and profit leaders. Focused marketing on these product lines can enhance profitability further.
@@ -113,13 +113,13 @@ This indicates strong logistics management and customer satisfaction with standa
 
 ### 8. Seasonal and Time-Based Trends
 
-- Peak Sales Period: October to December, with sales peaking in December.
+- Peak Sales Period: **October to December**, with sales peaking in **December**.
 
 Profit Trend:
 
-- 2019: Profits peaked in October and December.
+- 2019 : Profits peaked in **October** and **December**.
 
-- 2020: Highest profit observed in March.
+- 2020 : Highest profit observed in **March**.
 
 #### Insight:
 - Q4 is the most lucrative quarter, likely driven by holiday and year-end promotions. Consistent high performance in these months suggests opportunities for seasonal campaign optimization and inventory planning.
